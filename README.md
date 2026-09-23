@@ -41,25 +41,7 @@ This repository covers fundamental concepts of **data analysis, data preprocessi
 - Multiple Linear Regression using multiple features
 - Polynomial Regression
 - Compare Linear and Polynomial Regression using the R² score
-
-### Assignment 4 — Data Preprocessing & Feature Scaling
-
-- Create and preprocess a synthetic dataset
-- Handle missing values
-- Encode categorical data
-- Apply StandardScaler
-- Apply MinMaxScaler
-- Compare StandardScaler and MinMaxScaler
-
-### Assignment 5 — Logistic Regression
-
-- Predict student Pass/Fail using Logistic Regression
-- Use Study Hours and Attendance as features
-- Experiment with different classification thresholds
-- Compare Precision and Recall
-- Plot the ROC Curve
-- Calculate the AUC score
-
+- 
 ---
 
 ## 📂 Repository Structure
@@ -83,12 +65,3 @@ ML-Lab/
 │   ├── 3.2_multiple_regression.py
 │   └── 3.3_polynomial_regression.py
 │
-├── Assignment-4/
-│   ├── 4.1_preprocessing.py
-│   ├── 4.2_minmax_scaler.py
-│   └── 4.3_compare_scalers.py
-│
-└── Assignment-5/
-    ├── 5.1_logistic_regression.py
-    ├── 5.2_threshold.py
-    └── 5.3_roc_auc.py
