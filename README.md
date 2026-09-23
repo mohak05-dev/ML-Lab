@@ -41,7 +41,6 @@ This repository covers fundamental concepts of **data analysis, data preprocessi
 - Multiple Linear Regression using multiple features
 - Polynomial Regression
 - Compare Linear and Polynomial Regression using the R² score
-- 
 ---
 
 ## 📂 Repository Structure
