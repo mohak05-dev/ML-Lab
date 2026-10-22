@@ -35,32 +35,16 @@ This repository covers fundamental concepts of **data analysis, data preprocessi
 - Generate a correlation heatmap
 - Identify the strongest positive correlation between features
 
-### Assignment 3 — Regression
+### Assignment 3 — Data PreProcessing
+
+- Created a synthetic dataset containing Age, Salary, Department, and Years of Experience with missing values.
+- Applied preprocessing using SimpleImputer, OneHotEncoder, Pipeline, and ColumnTransformer.
+- Replaced StandardScaler with MinMaxScaler to scale numerical features between 0 and 1.
+- Compared StandardScaler and MinMaxScaler by printing transformed arrays and observing their numerical ranges.
+
+### Assignment 4 — Regression
 
 - House Price Prediction using Linear Regression
 - Multiple Linear Regression using multiple features
 - Polynomial Regression
 - Compare Linear and Polynomial Regression using the R² score
----
-
-## 📂 Repository Structure
-
-ML-Lab/
-│
-├── README.md
-│
-├── Assignment-1/
-│   ├── 1.1_numpy_statistics.py
-│   ├── 1.2_pandas_filter.py
-│   └── 1.3_grade_calculation.py
-│
-├── Assignment-2/
-│   ├── 2.1_wine_eda.py
-│   ├── 2.2_wine_boxplots.py
-│   └── 2.3_wine_correlation.py
-│
-├── Assignment-3/
-│   ├── 3.1_house_price.py
-│   ├── 3.2_multiple_regression.py
-│   └── 3.3_polynomial_regression.py
-│
